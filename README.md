@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Courtlyn</h1>
 <h3 align="center">A passionate software engineering apprentice @ Google</h3>
 
-- 🔭 I’m currently working on [Glow Getter](https://github.com/courtlyncodes/glowgetter)
+- 🔭 I’m currently working on Google Play UI Components.
 
-- 🌱 I’m currently learning **Kotlin & Jetpack Compose**
+- 🌱 I’m currently learning **Kotlin + Jetpack Compose and Swift**
 
 - 📫 How to reach me **courtlynboykin@gmail.com**
 
