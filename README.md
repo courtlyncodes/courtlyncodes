@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Android developer and software engineering apprentice @ Google</h3>
 
 <p align="center">
-  <img src="https://github.com/courtlyncodes/courtlyncodes/blob/4ff723681d15bf05bf367a3dba76e3382843c2ff/bugdroid.png"
+  <img src="https://github.com/courtlyncodes/courtlyncodes/blob/9785ba88bffb40b9f7b02da7f53c8ce2be5414f0/bugdroid.png">
 </p>
 
 
