@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋🏾 I'm Courtlyn. Nice to meet you!</h1>
 <h3 align="center">A passionate Android developer and software engineering apprentice @ Google</h3>
 
-![DroidBot](https://developer.android.com/static/images/community/observing-droid.gif)
+![DroidBot](https://developer.android.com/static/images/community/raise-the-roof-droid.gif)
 
 
 
