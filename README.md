@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋🏾 I'm Courtlyn. Nice to meet you!</h1>
 <h3 align="center">A passionate Android developer and software engineering apprentice @ Google</h3>
-<p align="center">
-    ![DroidBot](https://developer.android.com/static/images/community/observing-droid.gif)
-</p>
+![DroidBot](https://media.giphy.com/media/26FfxY8Mxd8Lz8ZJ6/giphy.gif)
 
 - 🔭 I’m currently working on Google Play UI Components.
 
