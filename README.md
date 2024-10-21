@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Kotlin + Jetpack Compose and Swift**
 
-- 📫 How to reach me **courtlynboykin@gmail.com**
-
 - ⚡ Fun fact **I taught algebra 1 and algebra 2 for 7 years**
 <br><br>
 <h2 align="center">Connect with me:</h2>
