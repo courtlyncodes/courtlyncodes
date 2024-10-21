@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋🏾 I'm Courtlyn. Nice to meet you!</h1>
-<h3 align="center">A passionate Android developer and software engineering apprentice @ Google</h3>
+<h3 align="center">I'm a passionate Android developer and software engineering apprentice @ Google</h3>
 <p align="center">
       <img src="https://github.com/courtlyncodes/courtlyncodes/blob/9785ba88bffb40b9f7b02da7f53c8ce2be5414f0/bugdroid.png" alt="DroidBot" width="200">
 </p>
