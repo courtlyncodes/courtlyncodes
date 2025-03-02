@@ -12,7 +12,7 @@
 
 ---
 ### 👩🏾‍💻 **Languages and Tools**
-<p align="center"> Kotlin | RESTful APIs | Jetpack Compose | Retrofit | Coil | Moshi | Room | WorkManager | Gradle | Android  Studio | MVVM Architecture | JavaScript | TypeScript | Angular | UI/UX Design | Adaptive Design | SQL | HTML/CSS | Software Testing | App Architecture | Figma | Git | CI/CD </p>
+<p align="center"> Kotlin • RESTful APIs • Jetpack Compose • Retrofit • Coil • Moshi • Room • WorkManager • Gradle • Android  Studio • MVVM Architecture • JavaScript • TypeScript • Angular • UI/UX Design • Adaptive Design • SQL • HTML/CSS • Software Testing • App Architecture • Figma • Git • CI/CD </p>
 
 
 ### 🔨 **My Projects**
