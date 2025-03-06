@@ -37,7 +37,7 @@ I’m currently focused on enhancing my skills in:
 ---
 
 ### 🤩 **Fun Facts About Me**  
-- **Accessibility isn't just a feature—it's a right.** That's why I make sure every app I work on is designed to be as accessible as possible!  
+- **Accessibility isn't just a feature, it's a right.** That's why I make sure every app I work on is designed to be as accessible as possible!  
 - When I’m not coding, you’ll find me **reading a crime thriller**, catching an **Atlanta Hawks** game, or singing my life away at a concert.
 - I taught **algebra 1** and **algebra 2** for 7 years.
 - I believe in the power of **Mobile-first design**, and love bringing apps to life with **Jetpack Compose**!  
