@@ -37,7 +37,7 @@ I’m currently focused on enhancing my skills in:
 
 ### 💬 **Let’s Connect**
 <a href="https://linkedin.com/in/courtlynboykin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="courtlynboykin" height="30" width="40" /></a>
-<a href="https://x.com/verycourtcoded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="courtlyncodes" height="30" width="40" /></a>
+<a href="https://x.com/verycourtcoded" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/twitter-x.svg)" alt="courtlyncodes" height="30" width="40" /></a>
 
 ---
 
