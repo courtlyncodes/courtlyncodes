@@ -27,15 +27,17 @@
 
 ### 📚 **Learning & Growth**  
 I’m currently focused on enhancing my skills in:  
-- Advanced **Dynamic UI/UX** for Android  
-- **Kotlin Coroutines** for better concurrency handling  
-- **Clean Architecture** in mobile development  
+- **Spring Boot & Java** backend fundamentals
+- **JPA & Hibernate** for efficient database handling
+- Cloud deployment using **AWS** (EC2, S3, etc.)
+- Preparing for **Google Play Store deployment**
+- **System design concepts** including scalability, API architecture, and service separation
 
 ---
 
 ### 💬 **Let’s Connect**
 <a href="https://linkedin.com/in/courtlynboykin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="courtlynboykin" height="30" width="40" /></a>
-<a href="https://twitter.com/courtlyncodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="courtlyncodes" height="30" width="40" /></a>
+<a href="https://x.com/verycourtcoded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="courtlyncodes" height="30" width="40" /></a>
 
 ---
 
