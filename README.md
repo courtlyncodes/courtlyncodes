@@ -14,7 +14,7 @@
 ### 👩🏾‍💻 **Languages and Tools**
 <p align="center"> Kotlin • RESTful APIs • Jetpack Compose • Retrofit • Coil • Moshi • Room • WorkManager • Gradle • Android  Studio • MVVM Architecture • JavaScript • TypeScript • Angular • UI/UX Design • Adaptive Design • SQL • HTML/CSS • Software Testing • App Architecture • Figma • Git • CI/CD </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=courtlyncodes&show_icons=true&locale=en&layout=compact" alt="courtlyncodes" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=courtlyncodes&show_icons=true&theme=dracula&title_color=e92aa3&locale=en&layout=compact" alt="courtlyncodes" /></p>
 
 ### 🔨 **My Projects**
 - **[Glow Getter](https://github.com/courtlyncodes/glowgetter)** - A sleek and adaptive productivity planner app, designed to seamlessly adjust across different screen sizes and offer a smooth user experience.
