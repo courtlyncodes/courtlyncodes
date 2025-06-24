@@ -5,14 +5,14 @@
       <img src="https://github.com/courtlyncodes/courtlyncodes/blob/9785ba88bffb40b9f7b02da7f53c8ce2be5414f0/bugdroid.png" alt="DroidBot" width="200">
 </p>
 
-🔶 **Current Focus**: Crafting adaptive, user-friendly, and accessible Android apps using **Jetpack Compose** and **Kotlin**  
-🔶 **Specialization**: Building intuitive interfaces and reusable UI components  
-🔶 **Passion**: Making Android apps that **everyone** can enjoy, regardless of their device or abilities  
-🔶 **Currently Learning**: Advanced Android techniques & latest **Material 3** updates
+🔶 **Current Focus**: Building scalable backend systems using **Spring Boot**, **Java**, and **JPA/Hibernate**  
+🔶 **Specialization**: Writing clean, testable code and designing service-oriented architectures  
+🔶 **Passion**: Creating APIs and infrastructure that power meaningful user experiences  
+🔶 **Currently Learning**: Cloud deployment, CI/CD pipelines, and advanced data structures
 
 ---
 ### 👩🏾‍💻 **Languages and Tools**
-<p align="center"> Kotlin • RESTful APIs • Jetpack Compose • Retrofit • Coil • Moshi • Room • WorkManager • Gradle • Android  Studio • MVVM Architecture • JavaScript • TypeScript • Angular • UI/UX Design • Adaptive Design • SQL • HTML/CSS • Software Testing • App Architecture • Figma • Git • CI/CD </p>
+<p align="center"> Kotlin • Java • RESTful APIs • Jetpack Compose • Retrofit • Coil • Moshi • Room • WorkManager • Gradle • Android  Studio • MVVM Architecture • JavaScript • TypeScript • Angular • UI/UX Design • Adaptive Design • SQL • HTML/CSS • Software Testing • App Architecture • Figma • Git • CI/CD </p>
 
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=courtlyncodes&show_icons=true&theme=dracula&title_color=e92aa3&locale=en&layout=compact" alt="courtlyncodes" />
